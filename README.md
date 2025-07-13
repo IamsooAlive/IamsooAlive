@@ -1,4 +1,4 @@
-<h1 align="center">Konichiwa 👋, I'm Manveet Shetty</h1>
+<h1 align="center"> 👋, I'm Manveet Shetty</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Data+Science+Student+%7C+Developer;Learning+Japanese+(JLPT+N4);Code.+Learn.+Repeat+%F0%9F%92%BB" alt="Typing SVG" />
@@ -13,7 +13,7 @@
 - 🔧 Tech stack: Python, JavaScript, Flask, SQL, HTML/CSS  
 - 📊 Data tools: Pandas, NumPy, Power BI, Scikit-learn  
 - ☁️ Exploring cloud concepts and app deployment (Heroku, Replit)  
-- 🇯🇵 Learning Japanese (JLPT N4 → N3)  
+
 
 ---
 
