@@ -1,53 +1,78 @@
-<h1 align="center"> 👋, I'm Manveet Shetty</h1>
+<h1 align="center"> I'm Manveet Shetty 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Data+Science+Student+%7C+Developer;Learning+Japanese+(JLPT+N4);Code.+Learn.+Repeat+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif">
 </p>
 
 ---
 
-### 💡 About Me
+### 🧑‍💼 About Me
 
-- 🎓 3rd Year Data Science Engineering Student  
-- 💻 Passionate about solving real-world problems using simple tech  
-- 🔧 Tech stack: Python, JavaScript, Flask, SQL, HTML/CSS  
-- 📊 Data tools: Pandas, NumPy, Power BI, Scikit-learn  
-- ☁️ Exploring cloud concepts and app deployment (Heroku, Replit)  
-
+🎓 &nbsp;I’m a **3rd-year Data Science Engineering** student who believes in using tech for simplicity, not complexity.  
+🧠 &nbsp;Learning **Japanese **  and many other languages to explore new cultures and global career opportunities.  
+⚡ &nbsp;Curious about how data, software, and language can come together to solve real-world challenges.  
+🌱 &nbsp;Currently diving deeper into **cloud deployment**, **API integration**, and **project design.**
 
 ---
 
-### 🚀 Projects
+### 🛠️ My Tech Toolbox
 
-- 🧑‍💼 **Student stall manager dashboard** – Python + Java + Sql  
-- 📈 **medtech** – Mongodb,Sql 
-- 🌐 **Mini Task Tracker Web App** – HTML, CSS, JavaScript  
-- 🧠 **JLPT N5 Quiz CLI App** – Python-based quiz app
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,js,html,css,sql,mongodb,git,vscode,figma" />
+</p>
 
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white"/>
 </p>
 
 ---
 
+### 🚀 Projects I’m Proud Of
 
-### 📫 Let's Connect
+| 🌟 Project | 🔧 Tech Used | 🔍 Description |
+|-----------|--------------|----------------|
+| **📊 Student Stall Manager** | Python, Java, SQL | A tool to manage student project stalls efficiently with live data updates. |
+| **🧠 JLPT N5 Quiz App** | Python (CLI) | A Japanese learning quiz app to practice vocabulary and grammar. |
+| **📈 MedTech DB** | MongoDB, SQL | Medical tech database for managing records and visualizing trends. |
+| **🌐 Mini Task Tracker** | HTML, CSS, JS | A responsive to-do tracker for organizing tasks quickly and cleanly. |
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/manveet-shetty-463555266/)  
-- 📬 Email: l314manveet@gamil.com 
+---
+
+### 💬 Fun Facts
+
+- ✍️ I enjoy reading, writing thoughts, and exploring new languages.  
+- 🏃‍♂️ Big fan of sports – on field and in data!  
+- 📚 Always down to learn something new (machine learning, Japanese, or even a new snack recipe 🍜).
+
+---
+
+### 🌏 Languages I’m Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Japanese-JLPT%20N4-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hindi-Native-red?style=for-the-badge" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/manveet-shetty-463555266/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:l314manveet@gmail.com"><img src="https://img.shields.io/badge/Gmail-Message-red?style=for-the-badge&logo=gmail" /></a>
+</p>
 
 ---
 
 <p align="center">
-  💬 *"Keep learning, keep building, and enjoy the journey."*
+  ✨ *"Keep learning, keep building, and enjoy the journey."* ✨
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 </p>
