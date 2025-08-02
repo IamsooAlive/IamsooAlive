@@ -35,7 +35,7 @@
 
 | 🌟 Project | 🔧 Tech Used | 🔍 Description |
 |-----------|--------------|----------------|
-| **📊 Student Stall Manager** | Python, Java, SQL | A tool to manage student project stalls efficiently with live data updates. |
+| **📊 Student Stall Manager** | Python, Java, SQL | A tool to manage student project stalls efficiently with data updates. |
 | **🧠 JLPT N5 Quiz App** | Python (CLI) | A Japanese learning quiz app to practice vocabulary and grammar. |
 | **📈 MedTech DB** | MongoDB, SQL | Medical tech database for managing records and visualizing trends. |
 | **🌐 Mini Task Tracker** | HTML, CSS, JS | A responsive to-do tracker for organizing tasks quickly and cleanly. |
