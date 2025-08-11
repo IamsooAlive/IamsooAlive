@@ -8,7 +8,7 @@
 
 ### 🧑‍💼 About Me
 
-🎓 &nbsp;I’m a **3rd-year Data Science Engineering** student who believes in using tech for simplicity, not complexity.  
+🎓 &nbsp;I’m a **4th-year Data Science Engineering** student who believes in using tech for simplicity, not complexity.  
 🧠 &nbsp;Learning **Japanese **  and many other languages to explore new cultures and global career opportunities.  
 ⚡ &nbsp;Curious about how data, software, and language can come together to solve real-world challenges.  
 🌱 &nbsp;Currently diving deeper into **cloud deployment**, **API integration**, and **project design.**
